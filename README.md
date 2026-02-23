@@ -22,3 +22,4 @@ Overall, this project demonstrates how a well-designed dashboard can act as a st
 
 
 # OUTPUT
+<img width="1015" height="499" alt="Image" src="https://github.com/user-attachments/assets/1424d8b0-0306-408f-9da2-263017bd6809" />
